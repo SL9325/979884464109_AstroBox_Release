@@ -5,12 +5,12 @@
     "name": "ELLOTHING",
     "description": "可自定义背景的相册表盘「ELLOTHING」\n拥有白、红、黄、绿、蓝、紫，六款配色；\n闹钟、倒计时、秒表、呼吸放松、手电筒、运动、微信支付、支付宝，八项跳转功能供选择。",
     "preview": [
-      "media/53000",
-      "media/52999",
-      "media/52998",
-      "media/52997",
-      "media/52996",
-      "media/52995"
+      "media/53052",
+      "media/53053",
+      "media/53054",
+      "media/53055",
+      "media/53056",
+      "media/53057"
     ],
     "icon": "media/50374.png",
     "cover": "media/53001",
@@ -32,12 +32,24 @@
     "xmb10p": {
       "version": "1.0.1",
       "file_name": "downloads/ELLOTHING-xmb10p.bin",
-      "versionCode": 65537
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "更换背景"
+        }
+      ]
     },
     "xmb9p": {
       "version": "1.0.1",
       "file_name": "downloads/ELLOTHING-xmb9p.bin",
-      "versionCode": 65537
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "更换背景"
+        }
+      ]
     }
   },
   "ext": {}
