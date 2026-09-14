@@ -31,25 +31,13 @@
   "downloads": {
     "xmb10p": {
       "version": "1.0.1",
-      "file_name": "downloads/EL10THING-xmb10p.bin",
-      "versionCode": 65537,
-      "updatelogs": [
-        {
-          "version": "1.0.1",
-          "content": "更换背景"
-        }
-      ]
+      "file_name": "downloads/ELLOTHING-xmb10p.bin",
+      "versionCode": 65537
     },
     "xmb9p": {
       "version": "1.0.1",
-      "file_name": "downloads/ELLOTHIN9-xmb9p.bin",
-      "versionCode": 65537,
-      "updatelogs": [
-        {
-          "version": "1.0.1",
-          "content": "更换背景"
-        }
-      ]
+      "file_name": "downloads/ELLOTHING-xmb9p.bin",
+      "versionCode": 65537
     }
   },
   "ext": {}
