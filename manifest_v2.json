@@ -3,17 +3,17 @@
     "id": "979884464109",
     "restype": "watchface",
     "name": "ELLOTHING",
-    "description": "可自定义背景的相册表盘「ELLOTHING」\n\n拥有白、红、黄、绿、蓝、紫，六款配色\n\n闹钟、倒计时、秒表、呼吸放松、手电筒、运动、微信支付、支付宝，八项跳转功能供选择\n\n（头图样式支持步数、卡路里、心率、压力显示与跳转）",
+    "description": "可自定义背景的相册表盘「ELLOTHING」\n\n拥有白、红、黄、绿、蓝、紫，六款配色\n十六项跳转功能供选择\n（样式一支持电量、温度、压力、心率、步数、卡路里的显示对应跳转）",
     "preview": [
-      "media/53000.png",
-      "media/52999.png",
-      "media/52998.png",
-      "media/52997.png",
-      "media/52996.png",
-      "media/52995.png"
+      "media/58583.jpg",
+      "media/58582.jpg",
+      "media/58581.jpg",
+      "media/58579.jpg",
+      "media/58580.jpg",
+      "media/58577.jpg"
     ],
     "icon": "media/50374.png",
-    "cover": "media/53586.png",
+    "cover": "media/58578.jpg",
     "author": [
       {
         "name": "SL9325",
@@ -23,39 +23,47 @@
   },
   "links": [
     {
-      "title": "CoolApk",
-      "url": "https://www.coolapk.com/u/17459125",
-      "icon": "At"
+      "title": "默认壁纸与其它配色",
+      "url": "https://www.coolapk.com/feed/74158245",
+      "icon": "link-simple"
     }
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.1.0",
-      "file_name": "downloads/ELLOTHING-xmb10p.bin",
-      "versionCode": 65792,
+      "version": "1.2.0",
+      "file_name": "downloads/ELLOTHING.bin",
+      "versionCode": 66048,
       "updatelogs": [
         {
-          "version": "1.0.1",
-          "content": "更换背景"
+          "version": "1.2.0",
+          "content": "优化布局，增加一个热区、多项跳转功能"
         },
         {
           "version": "1.1.0",
           "content": "添加样式，修改息屏"
+        },
+        {
+          "version": "1.0.1",
+          "content": "更换背景"
         }
       ]
     },
     "xmb9p": {
-      "version": "1.1.0",
+      "version": "1.2.0",
       "file_name": "downloads/ELLOTHING-xmb9p.bin",
-      "versionCode": 65792,
+      "versionCode": 66048,
       "updatelogs": [
         {
-          "version": "1.0.1",
-          "content": "更换背景"
+          "version": "1.2.0",
+          "content": "优化布局，增加一个热区、多项跳转功能"
         },
         {
           "version": "1.1.0",
           "content": "添加样式，修改息屏"
+        },
+        {
+          "version": "1.0.1",
+          "content": "更换背景"
         }
       ]
     }
