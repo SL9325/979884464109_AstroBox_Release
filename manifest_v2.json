@@ -3,17 +3,17 @@
     "id": "979884464109",
     "restype": "watchface",
     "name": "ELLOTHING",
-    "description": "可自定义背景的相册表盘「ELLOTHING」\n\n拥有白、红、黄、绿、蓝、紫，六款配色\n十六项跳转功能供选择\n（样式一支持电量、温度、压力、心率、步数、卡路里的显示对应跳转）",
+    "description": "可自定义背景的相册表盘「ELLOTHING」\n\n拥有白、红、黄、绿、蓝、紫，六款配色\n\n十四项跳转功能供选择（活力指标、天气、压力、心率、闹钟、倒计时、呼吸放松、秒表、运动、卡包、手电筒、录音机、支付宝、微信支付）\n\n（样式一支持步数、天气与温度、压力、心率对应数据显示与跳转）",
     "preview": [
-      "media/58583.jpg",
-      "media/58582.jpg",
-      "media/58581.jpg",
-      "media/58579.jpg",
-      "media/58580.jpg",
-      "media/58577.jpg"
+      "media/62762.png",
+      "media/62763.png",
+      "media/62764.png",
+      "media/62766.png",
+      "media/62765.png",
+      "media/62767.png"
     ],
     "icon": "media/50374.png",
-    "cover": "media/58578.jpg",
+    "cover": "media/62761.png",
     "author": [
       {
         "name": "SL9325",
@@ -23,17 +23,26 @@
   },
   "links": [
     {
-      "title": "默认壁纸与其它配色",
+      "title": "默认壁纸的更多配色",
       "url": "https://www.coolapk.com/feed/74158245",
       "icon": "link-simple"
+    },
+    {
+      "title": "支持我",
+      "url": "https://qr.alipay.com/fkx15244501ixkdos92d59f",
+      "icon": "hand-heart"
     }
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.2.0",
+      "version": "1.2.1",
       "file_name": "downloads/ELLOTHING.bin",
-      "versionCode": 66048,
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "更换步数图标，修复已知问题"
+        },
         {
           "version": "1.2.0",
           "content": "优化布局，增加一个热区、多项跳转功能"
@@ -49,10 +58,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.2.0",
+      "version": "1.2.1",
       "file_name": "downloads/ELLOTHING-xmb9p.bin",
-      "versionCode": 66048,
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "更换步数图标，修复已知问题"
+        },
         {
           "version": "1.2.0",
           "content": "优化布局，增加一个热区、多项跳转功能"
